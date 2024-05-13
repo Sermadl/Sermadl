@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sermadl&layout=compact&hide=jupyter%20notebook,Makefile)
 </br>
 [![Sermadl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sermadl)](https://github.com/Sermadl/github-readme-stats)
+</br></br>
+<img src="https://github.com/Sermadl/Sermadl/blob/output/github-contribution-grid-snake.svg"/>
