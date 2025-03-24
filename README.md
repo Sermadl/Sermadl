@@ -1,4 +1,6 @@
 ## Hi, I'm Seeun Kim 👋
+![image](https://github.com/user-attachments/assets/108f5263-d8b0-42fb-a94d-0a4ec5423455)
+
 I'm studying about back-end engineering recently!
 </br></br>
 <!--
